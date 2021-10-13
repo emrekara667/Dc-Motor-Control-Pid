@@ -5,6 +5,7 @@ Dc motor control with pid algorithm
 - DC motor control was realized between 100 and 10000 rpm
 - By counting the rising and falling edges of the outputs A and B, 64 pulses are received in one complete revolution of the motor shaft.
 - Pid algorithm runs every 50 ms
+- You should enter the desired rpm value RPM_d
 
 Encoder A -> pin2 <br>
 Encoder B -> pin3 <br>
