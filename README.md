@@ -1,7 +1,7 @@
 # Dc-Motor-Control-Pid
 Dc motor control with pid algorithm
 - 12V 37mm 11000 RPM High Power Gearless DC Motor With Encoder
-- 298n motor driver, 12V power supply and arduino was used as hardwarea 
+- L298n motor driver, 12V power supply and arduino was used as hardwarea 
 - Pid library was not used.
 - DC motor control was realized between 100 and 10000 rpm
 - By counting the rising and falling edges of the outputs A and B, 64 pulses are received in one complete revolution of the motor shaft.
