@@ -16,3 +16,5 @@ Encoder + -> 5V <br>
 Encoder - -> Ground <br>
 L298N + -> 12V <br>
 L298N - -> Ground <br>
+
+<img src="project-photo.jpeg" width="500" height="400">
